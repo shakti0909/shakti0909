@@ -20,7 +20,7 @@ Currently, I'm focused on **leveraging LLMs to enhance RAG applications, multi-a
 🔹 **Multi-Modal GenAI Model** - Combining text, images, and audio for intelligent analysis  
 
 📌 **Explore my repositories:**  
-🛠️ [🔗 LLM Projects](https://github.com/yourusername/llm-projects) | 📊 [🔗 AI Research](https://github.com/yourusername/ai-research) | 🚀 [🔗 Cloud AI Deployments](https://github.com/yourusername/cloud-ai)  
+🛠️ [🔗 LLM Projects](https://github.com/yourusername/llm-projects) | 📊 [🔗 AI Research](https://github.com/yourusername/ai-research) | 🚀 [🔗 Cloud AI Deployments](https://github.com/yourusername/cloud-ai) | 🌟 [🔗 GEN AI for Beginners](https://github.com/shakti0909/genai-for-beginners)  
 
 ---
 
