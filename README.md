@@ -43,7 +43,7 @@ Currently, I'm focused on **leveraging LLMs to enhance RAG applications, multi-a
 ---
 
 ## 🤝 **Let's Connect**
-💼 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/shaktikantadas)
+💼 **LinkedIn:** [Shaktikanta Das](https://linkedin.com/in/shaktikantadas)
 📧 **Email:** shaktikantadas13@gmail.com 
 💻 **Portfolio:** [Your Website](https://yourwebsite.com)  
 
