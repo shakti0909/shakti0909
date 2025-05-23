@@ -1,68 +1,55 @@
 <h1 align="center">Hi, I'm Shakti 👋</h1>
 
-💡 **GenAI Data Scientist | AI/ML Innovator | Cloud AI Enthusiast**  
+💡 **GenAI Data Scientist | Cloud AI Developer | ML Enthusiast**  
 
-I love pondering over ideas that solve real-world problems and push the boundaries of AI-driven innovation.  
-Currently, I'm focused on **leveraging LLMs to enhance RAG applications, multi-agent systems, and multi-document analysis**.  
+I enjoy building practical, creative AI solutions that solve real-world challenges.  
+Right now, I'm focused on leveraging **LLMs** for retrieval-augmented generation (RAG), multi-document search, and developing AI tools that integrate well with cloud infrastructure.
 
-🔍 **Curious about:** AI in **business & IT**, cloud AI, and **intrapreneurial opportunities**.  
-💻 **Tech Stack:** Python | PySpark | TensorFlow | OpenAI API | LangChain | FastAPI | AWS  
-✍ **Hobbies:** Writing poems & stories | Traveling & exploring local cuisines  
-
----
-
-## 🚀 **Projects & Open-Source Contributions**  
-
-🔹 **LLM-Powered RAG System** - Multi-agent retrieval-augmented generation for enterprise solutions  
-🔹 **AI Document Summarizer** - Extractive & abstractive summarization using GenAI  
-🔹 **AI Chatbot with FastAPI** - Scalable chatbot using OpenAI API and cloud deployment  
-🔹 **Cybersecurity AI** - AI-driven threat detection for cloud security  
-🔹 **Multi-Modal GenAI Model** - Combining text, images, and audio for intelligent analysis  
-
-📌 **Explore my repositories:**  
-🛠️ [🔗 LLM Projects](https://github.com/yourusername/llm-projects) | 📊 [🔗 AI Research](https://github.com/yourusername/ai-research) | 🚀 [🔗 Cloud AI Deployments](https://github.com/yourusername/cloud-ai) | 🌟 [🔗 GEN AI for Beginners](https://github.com/shakti0909/genai-for-beginners)  
+🔍 **Exploring:** Applied AI in business, intrapreneurial use of GenAI, and cloud-native ML workflows  
+💻 **Stack I Work With:** Python | LangChain | FastAPI | AWS | TensorFlow (learning)  
+✍ **Hobbies:** Writing stories & poems | Traveling | Exploring regional food
 
 ---
 
-## ⚡ **Tech Stack & Tools**
-| **Category** | **Technologies** |
-|-------------|----------------|
-| 🧠 **AI/ML** | Generative AI, TensorFlow, PyTorch, OpenAI API, LangChain |
-| 🔍 **Data Science** | Pandas, NumPy, Matplotlib, EDA, SQL |
-| ☁️ **Cloud & Infra** | AWS (Bedrock, SageMaker, Lambda, EC2), Docker |
-| 🔗 **Backend** | FastAPI, Flask, PostgreSQL, Kafka |
+## 🚀 Projects & Contributions
+
+🔹 **GenAI Toolkit** – AWS-deployed containerized app for demos across 6 enterprise use cases  
+🔹 **LLM-Based RAG System** – Built multi-agent document QA using LangGraph and SQL integration  
+🔹 **Document Summarizer** – Multimodal summary extractor for legal and medical files  
+🔹 **Train Ticket Prediction** – ML classifier to predict confirmation likelihood using historical PNR data  
+🔹 **Time-Series Forecasting** – Built demand forecast models using Random Forest and Boosting
+
+📌 Featured Repo: [🔗 GenAI for Beginners](https://github.com/shakti0909/genai-for-beginners)
 
 ---
 
-## ✍ **Latest Blog Posts**
-🔹 [How RAG Enhances LLM Applications](https://yourblog.com/rag-llms)  
-🔹 [Deploying AI Models in AWS with Bedrock](https://yourblog.com/aws-bedrock)  
+## ⚙️ Tech Stack
 
-📌 Read more on **[My Blog](https://yourblog.com)**  
-
----
-
-## 🤝 **Let's Connect**
-💼 **LinkedIn:** [Shaktikanta Das](https://linkedin.com/in/shaktikantadas)
-📧 **Email:** shaktikantadas13@gmail.com 
-💻 **Portfolio:** [Your Website](https://yourwebsite.com)  
+| Area | Tools |
+|------|-------|
+| 🧠 **LLM/GenAI** | OpenAI API, Claude, LangChain, LangGraph, Bedrock |
+| 🧪 **ML & DS** | Pandas, NumPy, Scikit-learn, SQL, Matplotlib |
+| ☁️ **Cloud** | AWS (EC2, SageMaker, Bedrock, Textract, RDS), Docker |
+| 🧰 **Backend & APIs** | FastAPI, Flask |
+| 🔧 **Workflow & CI/CD** | GitHub Actions, NGINX (for Gradio apps) |
 
 ---
 
-🌟 _"Building innovative AI solutions, one project at a time!"_ 🚀
+## ✍ Blog Posts (Coming Soon)
 
+🔸 **[How to Deploy Gradio Apps on AWS EC2](#)**  
+🔸 **[Using RAG for Practical Document QnA](#)**  
 
-<!--
-**shakti0909/shakti0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 More articles soon on my [**Blog**](#) (coming in 2025)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Let's Connect
+
+📫 **Email:** [shaktikantadas13@gmail.com](mailto:shaktikantadas13@gmail.com)  
+💼 **LinkedIn:** [Shaktikanta Das](https://linkedin.com/in/shaktikantadas)  
+💻 **GitHub:** [github.com/shakti0909](https://github.com/shakti0909)  
+
+---
+
+🌟 _"Building simple, scalable, and smart GenAI tools—one project at a time."_ 🚀
