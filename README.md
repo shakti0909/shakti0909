@@ -14,7 +14,9 @@ Right now, I'm focused on leveraging **LLMs** for retrieval-augmented generation
 ## 🚀 Projects & Contributions
 
 🔹 **Youtube-QA Extraction and Dataset Prep** – Extarct question and answers from youtube chapters and captions for youtube videos and prepare dataset(On going)
+
 🔹 **Train Ticket Prediction** – ML classifier to predict confirmation likelihood using historical PNR data (Planned)
+
 🔹 **Time-Series Forecasting** – Built demand forecast models using Random Forest and Boosting(Planned)
 
 📌 Featured Repo: [🔗 GenAI for Beginners](https://github.com/shakti0909/genai-for-beginners)
