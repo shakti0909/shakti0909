@@ -13,11 +13,9 @@ Right now, I'm focused on leveraging **LLMs** for retrieval-augmented generation
 
 ## 🚀 Projects & Contributions
 
-🔹 **GenAI Toolkit** – AWS-deployed containerized app for demos across 6 enterprise use cases  
-🔹 **LLM-Based RAG System** – Built multi-agent document QA using LangGraph and SQL integration  
-🔹 **Document Summarizer** – Multimodal summary extractor for legal and medical files  
-🔹 **Train Ticket Prediction** – ML classifier to predict confirmation likelihood using historical PNR data  
-🔹 **Time-Series Forecasting** – Built demand forecast models using Random Forest and Boosting
+🔹 **Youtube-QA Extraction and Dataset Prep** – Extarct question and answers from youtube chapters and captions for youtube videos and prepare dataset(On going)
+🔹 **Train Ticket Prediction** – ML classifier to predict confirmation likelihood using historical PNR data (Planned)
+🔹 **Time-Series Forecasting** – Built demand forecast models using Random Forest and Boosting(Planned)
 
 📌 Featured Repo: [🔗 GenAI for Beginners](https://github.com/shakti0909/genai-for-beginners)
 
